@@ -1,6 +1,6 @@
 Name:		texlive-xcharter-math
-Version:	64927
-Release:	2
+Version:	68992
+Release:	1
 Summary:	XCharter-based OpenType Math font for LuaTeX and XeTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xcharter-math
