@@ -3,7 +3,7 @@ Version:	71883
 Release:	1
 Summary:	XCharter-based OpenType Math font for LuaTeX and XeTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xcharter-math
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xcharter-math
 License:	ofl lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xcharter-math.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xcharter-math.doc.r%{version}.tar.xz
